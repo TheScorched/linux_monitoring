@@ -57,5 +57,5 @@ def get_login_summary(username, csv_filename):
         print(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
-    csv_filename = '/home/aaron/Documents/logging_scripts/output_logs/log_data.csv'
+    csv_filename = 'replace_with_your_desired_destination'
     get_login_summary('aaron', csv_filename)
