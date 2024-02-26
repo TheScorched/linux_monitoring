@@ -58,4 +58,4 @@ def get_login_summary(username, csv_filename):
 
 if __name__ == "__main__":
     csv_filename = 'replace_with_your_desired_destination'
-    get_login_summary('aaron', csv_filename)
+    get_login_summary('insert_name_here', csv_filename)
